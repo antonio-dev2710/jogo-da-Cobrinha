@@ -2,5 +2,5 @@
 
 
 
-- ### Principal foco foi aplicar o raciocínio lógico utilizando a javascript.
+- ### Principal foco foi aplicar o raciocínio lógico utilizando o javascript.
 
